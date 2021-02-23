@@ -1,0 +1,50 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 23 Feb 2021 22:49:08 at http://inebur.com/whmcs/?systpl=horn +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://inebur.com/whmcs/?systpl=horn -O1 "C:\Users\USER\Desktop\Gaatevest\Gatevest" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:49:10	Warning: 	Found for inebur.com/robots.txt
+22:49:10	Warning: 	File has moved from inebur.com/robots.txt to http://inebur.com/antler/template/404.html
+23:06:18	Error: 	"Not Found" (404) at link inebur.com/whmcs/templates/horn/img/worldmap.png (from inebur.com/whmcs/templates/horn/css/all.min.css?v=803656)
+23:06:18	Warning: 	Retry after error -4 (No data (connection closed)) at link inebur.com/whmcs/assets/img/payment/unknown.png (from inebur.com/whmcs/templates/horn/css/all.min.css?v=803656)
+23:06:18	Warning: 	Retry after error -4 (No data (connection closed)) at link inebur.com/whmcs/assets/img/payment/mastercard.png (from inebur.com/whmcs/templates/horn/css/all.min.css?v=803656)
+23:07:03	Warning: 	Retry after error -4 (No data (connection closed)) at link inebur.com/whmcs/index.php/store/shared-hosting?language=dutch (from inebur.com/whmcs/index.php/store/shared-hosting)
+23:07:03	Warning: 	Retry after error -4 (No data (connection closed)) at link inebur.com/whmcs/index.php/store/shared-hosting?language=english (from inebur.com/whmcs/index.php/store/shared-hosting)
+23:12:21	Error: 	"Not Found" (404) at link inebur.com/whmcs/index.php/cart.php?a=view (from inebur.com/whmcs/index.php/announcements)
+23:12:21	Error: 	"Not Found" (404) at link inebur.com/whmcs/index.php/clientarea.php (from inebur.com/whmcs/index.php/announcements)
+23:16:12	Warning: 	Retry after error -4 (No data (connection closed)) at link inebur.com/whmcs/affiliates.php (from inebur.com/whmcs/?systpl=horn&language=hungarian)
+23:16:12	Warning: 	Retry after error -4 (No data (connection closed)) at link inebur.com/whmcs/supporttickets.php (from inebur.com/whmcs/?systpl=horn&language=hungarian)
+23:19:37	Warning: 	Retry after error -4 (No data (connection closed)) at link inebur.com/whmcs/index.php/announcements/6/1914-translation-by-H.-Rackham.html?language=turkish (from inebur.com/whmcs/index.php/announcements/6/1914-translation-by-H.-Rackham.html)
+23:19:37	Warning: 	Retry after error -4 (No data (connection closed)) at link inebur.com/whmcs/index.php/announcements/6/1914-translation-by-H.-Rackham.html?language=ukranian (from inebur.com/whmcs/index.php/announcements/6/1914-translation-by-H.-Rackham.html)
+23:19:37	Error: 	"Not Found" (404) at link inebur.com/whmcs/index.php/announcements/6/cart.php?a=view (from inebur.com/whmcs/index.php/announcements/6/1914-translation-by-H.-Rackham.html)
+23:19:37	Error: 	"Not Found" (404) at link inebur.com/whmcs/index.php/announcements/6/clientarea.php (from inebur.com/whmcs/index.php/announcements/6/1914-translation-by-H.-Rackham.html)
+23:19:39	Error: 	"Not Found" (404) at link inebur.com/whmcs/index.php/announcements/5/cart.php?a=view (from inebur.com/whmcs/index.php/announcements/5/The-standard-Lorem-Ipsum.html)
+23:19:39	Error: 	"Not Found" (404) at link inebur.com/whmcs/index.php/announcements/5/clientarea.php (from inebur.com/whmcs/index.php/announcements/5/The-standard-Lorem-Ipsum.html)
+23:19:41	Error: 	"Not Found" (404) at link inebur.com/whmcs/index.php/announcements/4/cart.php?a=view (from inebur.com/whmcs/index.php/announcements/4/Thank-you-for-choosing-WHMCS.html)
+23:19:41	Error: 	"Not Found" (404) at link inebur.com/whmcs/index.php/announcements/4/clientarea.php (from inebur.com/whmcs/index.php/announcements/4/Thank-you-for-choosing-WHMCS.html)
+23:19:47	Warning: 	Retry after error -4 (No data (connection closed)) at link inebur.com/whmcs/index.php/store/weebly-website-builder?language=danish (from inebur.com/whmcs/index.php/store/weebly-website-builder)
+23:19:49	Warning: 	Retry after error -4 (No data (connection closed)) at link inebur.com/whmcs/index.php/store/weebly-website-builder?language=english (from inebur.com/whmcs/index.php/store/weebly-website-builder)
+23:20:39	Error: 	"Not Found" (404) at link inebur.com/whmcs/index.php/password/cart.php?a=view (from inebur.com/whmcs/index.php/password/reset)
+23:20:39	Error: 	"Not Found" (404) at link inebur.com/whmcs/index.php/password/clientarea.php (from inebur.com/whmcs/index.php/password/reset)
+23:21:20	Warning: 	Retry after error -4 (No data (connection closed)) at link inebur.com/whmcs/index.php/announcements/view/2019-08?language=portuguese-br (from inebur.com/whmcs/index.php/announcements/view/2019-08)
+23:21:20	Warning: 	Retry after error -4 (No data (connection closed)) at link inebur.com/whmcs/index.php/announcements/view/2019-08?language=portuguese-pt (from inebur.com/whmcs/index.php/announcements/view/2019-08)
+23:26:00	Warning: 	Moved Temporarily for inebur.com/whmcs/affiliates.php
+23:26:00	Warning: 	File has moved from inebur.com/whmcs/affiliates.php to /whmcs/index.php/login
+23:26:00	Warning: 	Moved Temporarily for inebur.com/whmcs/supporttickets.php
+23:26:00	Warning: 	File has moved from inebur.com/whmcs/supporttickets.php to /whmcs/index.php/login
+23:26:24	Warning: 	Retry after error -4 (No data (connection closed)) at link inebur.com/whmcs/index.php/store/cart.php?gid=renewals (from inebur.com/whmcs/index.php/store/dedicated-server?language=hebrew)
+23:26:31	Warning: 	Retry after error -4 (No data (connection closed)) at link inebur.com/whmcs/cart.php?gid=registerdomain (from inebur.com/whmcs/cart.php?a=add&pid=8&language=dutch)
+23:28:34	Warning: 	Retry after error -4 (No data (connection closed)) at link inebur.com/whmcs/index.php/knowledgebase/1/How-can-I-access-my-server.html?language=catalan (from inebur.com/whmcs/index.php/knowledgebase/1/How-can-I-access-my-server.html)
+23:28:34	Warning: 	Retry after error -4 (No data (connection closed)) at link inebur.com/whmcs/index.php/knowledgebase/1/How-can-I-access-my-server.html?language=chinese (from inebur.com/whmcs/index.php/knowledgebase/1/How-can-I-access-my-server.html)
+23:28:46	Warning: 	Found for inebur.com/whmcs/index.php/store/cart.php?gid=renewals
+23:28:46	Warning: 	File has moved from inebur.com/whmcs/index.php/store/cart.php?gid=renewals to /whmcs/index.php/store/shared-hosting
+23:28:46	Warning: 	Moved Temporarily for inebur.com/whmcs/cart.php?gid=registerdomain
+23:28:46	Warning: 	File has moved from inebur.com/whmcs/cart.php?gid=registerdomain to /whmcs/cart.php?a=add&domain=register
+23:28:53	Warning: 	Retry after error -4 (No data (connection closed)) at link inebur.com/whmcs/index.php/knowledgebase/3/clientarea.php?language=arabic (from inebur.com/whmcs/index.php/knowledgebase/3/clientarea.php)
+23:28:53	Warning: 	Retry after error -4 (No data (connection closed)) at link inebur.com/whmcs/index.php/knowledgebase/3/clientarea.php?language=azerbaijani (from inebur.com/whmcs/index.php/knowledgebase/3/clientarea.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 39 minutes 48 seconds : 1822 links scanned, 1788 files written (81647468 bytes overall) [25848282 bytes received at 10824 bytes/sec], 71273055 bytes transferred using HTTP compression in 1704 files, ratio 20%, 30.9 requests per connection
+(11 errors, 28 warnings, 0 messages)

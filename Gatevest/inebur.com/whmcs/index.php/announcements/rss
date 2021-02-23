@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+            <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+                <channel>
+                    <atom:link href="http://inebur.com/whmcs/index.php/announcements/rss" rel="self" type="application/rss+xml" />
+                    <title><![CDATA[inebur]]></title>
+                    <description><![CDATA[inebur Сповіщення RSS]]></description>
+                    <link>http://inebur.com/whmcs/index.php/announcements</link>
+                    
+<item>
+    <title><![CDATA[1914 translation by H. Rackham]]></title>
+    <link>http://inebur.com/whmcs/index.php/announcements/6</link>
+    <guid>http://inebur.com/whmcs/index.php/announcements/6</guid>
+    <pubDate>Sat, 18 Apr 2020 22:59:00 +0000</pubDate>
+    <description><![CDATA[<p><span style="color: #000000; font-family: 'Open Sans', Arial, sans-serif; text-align: justify; background-color: #ffffff;">But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. </span></p>]]></description>
+</item>
+
+<item>
+    <title><![CDATA[The standard Lorem Ipsum]]></title>
+    <link>http://inebur.com/whmcs/index.php/announcements/5</link>
+    <guid>http://inebur.com/whmcs/index.php/announcements/5</guid>
+    <pubDate>Sat, 18 Apr 2020 22:56:00 +0000</pubDate>
+    <description><![CDATA[<p><span style="color: #000000; font-family: 'Open Sans', Arial, sans-serif; text-align: justify; background-color: #ffffff;">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</span></p>]]></description>
+</item>
+
+<item>
+    <title><![CDATA[Thank you for choosing WHMCS]]></title>
+    <link>http://inebur.com/whmcs/index.php/announcements/4</link>
+    <guid>http://inebur.com/whmcs/index.php/announcements/4</guid>
+    <pubDate>Tue, 20 Aug 2019 23:24:00 +0000</pubDate>
+    <description><![CDATA[<p class="p1">Welcome to <a href="http://whmcs.com/"><span class="s1">WHMCS</span></a>! You have made a great choice and we want to help you get up and running as quickly as possible.This is a sample announcement. Announcements are a great way to keep your customers informed about news and special offers. You can edit or delete this announcement by logging into the admin area and navigating to <em>Support, Announcements</em>.If at any point you get stuck, our support team is available 24x7 to assist you. Simply visit <a href="http://www.whmcs.com/support"><span class="s1">www.whmcs.com/support</span></a> to request assistance.</p>]]></description>
+</item>
+                </channel>
+            </rss>
